@@ -1,0 +1,9 @@
+dotnet ef --startup-project 01_Presentation/API/API.csproj --project 04_InfraStructure/Repository/Repository.csproj migrations add atualizarPessoaFisica -v
+
+dotnet ef --startup-project 01_Presentation/API/API.csproj --project 04_InfraStructure/Repository/Repository.csproj database update -v
+
+
+dotnet ef --startup-project 01_Presentation/API/API.csproj --project 04_InfraStructure/Repository/Repository.csproj migrations add adicionarTelefone -v
+
+
+dotnet ef --startup-project 01_Presentation/API/API.csproj --project 04_InfraStructure/Repository/Repository.csproj migrations add adicionarTelefoneAjuste -v

@@ -1,0 +1,16 @@
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/bin/Debug/netstandard2.1/02_DI.deps.json
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/bin/Debug/netstandard2.1/02_DI.dll
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/bin/Debug/netstandard2.1/02_DI.pdb
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/obj/Debug/netstandard2.1/02_DI.csprojAssemblyReference.cache
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/obj/Debug/netstandard2.1/02_DI.AssemblyInfoInputs.cache
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/obj/Debug/netstandard2.1/02_DI.AssemblyInfo.cs
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/obj/Debug/netstandard2.1/02_DI.csproj.CoreCompileInputs.cache
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/obj/Debug/netstandard2.1/02_DI.dll
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/obj/Debug/netstandard2.1/02_DI.pdb
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/bin/Debug/netstandard2.1/Core.dll
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/bin/Debug/netstandard2.1/Repository.dll
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/bin/Debug/netstandard2.1/Repository.pdb
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/bin/Debug/netstandard2.1/Core.pdb
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/obj/Debug/netstandard2.1/02_DI.csproj.CopyComplete
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/bin/Debug/netstandard2.1/Services.dll
+/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/bin/Debug/netstandard2.1/Services.pdb

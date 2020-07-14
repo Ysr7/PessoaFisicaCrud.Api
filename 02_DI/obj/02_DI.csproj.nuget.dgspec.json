@@ -1,0 +1,259 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/02_DI.csproj": {}
+  },
+  "projects": {
+    "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/02_DI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/02_DI.csproj",
+        "projectName": "02_DI",
+        "projectPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/02_DI.csproj",
+        "packagesPath": "/home/yurirangel/.nuget/packages/",
+        "outputPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/yurirangel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Services/Services.csproj": {
+                "projectPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Services/Services.csproj"
+              },
+              "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/04_InfraStructure/Repository/Repository.csproj": {
+                "projectPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/04_InfraStructure/Repository/Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Core/Core.csproj",
+        "packagesPath": "/home/yurirangel/.nuget/packages/",
+        "outputPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/yurirangel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Services/Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Services/Services.csproj",
+        "projectName": "Services",
+        "projectPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Services/Services.csproj",
+        "packagesPath": "/home/yurirangel/.nuget/packages/",
+        "outputPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/yurirangel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Core/Core.csproj": {
+                "projectPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/04_InfraStructure/Repository/Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/04_InfraStructure/Repository/Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/04_InfraStructure/Repository/Repository.csproj",
+        "packagesPath": "/home/yurirangel/.nuget/packages/",
+        "outputPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/04_InfraStructure/Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/yurirangel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Core/Core.csproj": {
+                "projectPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
