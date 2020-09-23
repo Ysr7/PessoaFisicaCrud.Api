@@ -7,3 +7,5 @@ dotnet ef --startup-project 01_Presentation/API/API.csproj --project 04_InfraStr
 
 
 dotnet ef --startup-project 01_Presentation/API/API.csproj --project 04_InfraStructure/Repository/Repository.csproj migrations add adicionarTelefoneAjuste -v
+
+dotnet ef --startup-project 01_Presentation/API/API.csproj --project 04_InfraStructure/Repository/Repository.csproj migrations add linuxAmbiente -v
