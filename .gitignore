@@ -35,22 +35,15 @@ obj/Debug/netstandart2.1
 
 # End of https://www.toptal.com/developers/gitignore/api/dotnetcore,visualstudiocode
 
-02_DI/bin/Debug/netstandard2.1/Repository.dll
-02_DI/bin/Debug/netstandard2.1/02_DI.dll
-02_DI/bin/Debug/netstandard2.1/02_DI.pdb
-02_DI/bin/Debug/netstandard2.1/Core.dll
-02_DI/bin/Debug/netstandard2.1/Core.pdb
-02_DI/bin/Debug/netstandard2.1/Repository.dll
-02_DI/bin/Debug/netstandard2.1/Repository.pdb
-02_DI/bin/Debug/netstandard2.1/Services.dll
-02_DI/bin/Debug/netstandard2.1/Services.pdb
-02_DI/obj/02_DI.csproj.nuget.dgspec.json
-02_DI/obj/02_DI.csproj.nuget.g.props
-02_DI/obj/project.assets.json
-02_DI/obj/project.nuget.cache
-02_DI/obj/Debug/netstandard2.1/02_DI.assets.cache
-02_DI/obj/Debug/netstandard2.1/02_DI.csproj.CoreCompileInputs.cache
-02_DI/obj/Debug/netstandard2.1/02_DI.csproj.FileListAbsolute.txt
-02_DI/obj/Debug/netstandard2.1/02_DI.csprojAssemblyReference.cache
-02_DI/obj/Debug/netstandard2.1/02_DI.dll
-02_DI/obj/Debug/netstandard2.1/02_DI.pdb
+/04_InfraStructure/Repository/bin/
+/04_InfraStructure/Repository/obj/
+/04_InfraStructure/Http/obj/
+/04_InfraStructure/Http/bin/
+/03_Business/Entities/bin/
+/03_Business/Entities/obj/
+/03_Business/Services/bin/
+/03_Business/Services/obj/
+/02_DI/bin/
+/02_DI/obj/
+/01_Presentation/API/bin/
+/01_Presentation/API/obj/
