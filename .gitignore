@@ -6,8 +6,8 @@
 /.vs/CNPV/v16
 /.vs/CNPV/v16
 /01_Presentation/Api/bin
-/02_DependencyInjection/DependencyInjection/bin
-/02_DependencyInjection/DependencyInjection/obj
+/02_DI/bin
+/02_DI/obj
 /03_Domain/Core/obj
 /03_Domain/Core/bin
 /03_Domain/Services/obj
