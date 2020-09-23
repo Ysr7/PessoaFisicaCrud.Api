@@ -10,15 +10,26 @@ Dockerfile
 **/appsettings.Production.json
 04_InfraStructure/DAL/MySQL/DAO/bin/
 
-/04_InfraStructure/Repository/bin/
-/04_InfraStructure/Repository/obj/
-/04_InfraStructure/Http/obj/
-/04_InfraStructure/Http/bin/
-/03_Business/Entities/bin/
-/03_Business/Entities/obj/
-/03_Business/Services/bin/
-/03_Business/Services/obj/
-/02_DI/bin/
-/02_DI/obj/
-/01_Presentation/API/bin/
-/01_Presentation/API/obj/
+### DotnetCore ###
+# .NET Core build folders
+bin/
+obj/
+
+# Common node modules locations
+/node_modules
+/wwwroot/node_modules
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
+# End of https://www.toptal.com/developers/gitignore/api/dotnetcore,visualstudiocode
+
