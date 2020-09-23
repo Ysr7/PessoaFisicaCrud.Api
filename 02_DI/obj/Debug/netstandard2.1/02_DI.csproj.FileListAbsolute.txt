@@ -14,3 +14,19 @@
 /home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/obj/Debug/netstandard2.1/02_DI.csproj.CopyComplete
 /home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/bin/Debug/netstandard2.1/Services.dll
 /home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/bin/Debug/netstandard2.1/Services.pdb
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/bin/Debug/netstandard2.1/02_DI.deps.json
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/bin/Debug/netstandard2.1/02_DI.dll
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/bin/Debug/netstandard2.1/02_DI.pdb
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/bin/Debug/netstandard2.1/Core.dll
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/bin/Debug/netstandard2.1/Repository.dll
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/bin/Debug/netstandard2.1/Services.dll
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/bin/Debug/netstandard2.1/Repository.pdb
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/bin/Debug/netstandard2.1/Services.pdb
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/bin/Debug/netstandard2.1/Core.pdb
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/obj/Debug/netstandard2.1/02_DI.csprojAssemblyReference.cache
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/obj/Debug/netstandard2.1/02_DI.AssemblyInfoInputs.cache
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/obj/Debug/netstandard2.1/02_DI.AssemblyInfo.cs
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/obj/Debug/netstandard2.1/02_DI.csproj.CoreCompileInputs.cache
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/obj/Debug/netstandard2.1/02_DI.csproj.CopyComplete
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/obj/Debug/netstandard2.1/02_DI.dll
+/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/obj/Debug/netstandard2.1/02_DI.pdb

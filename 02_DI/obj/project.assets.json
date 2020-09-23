@@ -6289,19 +6289,19 @@
     ]
   },
   "packageFolders": {
-    "/home/yurirangel/.nuget/packages/": {}
+    "/home/yuri/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/02_DI.csproj",
+      "projectUniqueName": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/02_DI.csproj",
       "projectName": "02_DI",
-      "projectPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/02_DI.csproj",
-      "packagesPath": "/home/yurirangel/.nuget/packages/",
-      "outputPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/02_DI/obj/",
+      "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/02_DI.csproj",
+      "packagesPath": "/home/yuri/.nuget/packages/",
+      "outputPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/02_DI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/yurirangel/.nuget/NuGet/NuGet.Config"
+        "/home/yuri/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -6312,11 +6312,11 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Services/Services.csproj": {
-              "projectPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/03_Domain/Services/Services.csproj"
+            "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Services/Services.csproj": {
+              "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/03_Domain/Services/Services.csproj"
             },
-            "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/04_InfraStructure/Repository/Repository.csproj": {
-              "projectPath": "/home/yurirangel/Documentos/Flutter projetos(pessoal)/Projetos Estudo/repositorio/04_InfraStructure/Repository/Repository.csproj"
+            "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/04_InfraStructure/Repository/Repository.csproj": {
+              "projectPath": "/home/yuri/Documentos/Projetos GitHub/PessoaFisicaCrud.Api/04_InfraStructure/Repository/Repository.csproj"
             }
           }
         }
@@ -6364,7 +6364,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
       }
     }
   }
