@@ -14,6 +14,8 @@ Dockerfile
 # .NET Core build folders
 bin/
 obj/
+obj/Debug/netstandart2.1
+
 
 # Common node modules locations
 /node_modules
@@ -33,3 +35,22 @@ obj/
 
 # End of https://www.toptal.com/developers/gitignore/api/dotnetcore,visualstudiocode
 
+02_DI/bin/Debug/netstandard2.1/Repository.dll
+02_DI/bin/Debug/netstandard2.1/02_DI.dll
+02_DI/bin/Debug/netstandard2.1/02_DI.pdb
+02_DI/bin/Debug/netstandard2.1/Core.dll
+02_DI/bin/Debug/netstandard2.1/Core.pdb
+02_DI/bin/Debug/netstandard2.1/Repository.dll
+02_DI/bin/Debug/netstandard2.1/Repository.pdb
+02_DI/bin/Debug/netstandard2.1/Services.dll
+02_DI/bin/Debug/netstandard2.1/Services.pdb
+02_DI/obj/02_DI.csproj.nuget.dgspec.json
+02_DI/obj/02_DI.csproj.nuget.g.props
+02_DI/obj/project.assets.json
+02_DI/obj/project.nuget.cache
+02_DI/obj/Debug/netstandard2.1/02_DI.assets.cache
+02_DI/obj/Debug/netstandard2.1/02_DI.csproj.CoreCompileInputs.cache
+02_DI/obj/Debug/netstandard2.1/02_DI.csproj.FileListAbsolute.txt
+02_DI/obj/Debug/netstandard2.1/02_DI.csprojAssemblyReference.cache
+02_DI/obj/Debug/netstandard2.1/02_DI.dll
+02_DI/obj/Debug/netstandard2.1/02_DI.pdb
